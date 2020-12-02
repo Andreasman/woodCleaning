@@ -6,9 +6,11 @@ Entwickler: Andreas Stäcker
 
 ## Fotos
 Prototype Blastgate
-<img src="img\blastgate-prototype.JPG" alt="Blastgate Prototype" style="width:80%;"/>
+
+<img src="img\blastgate-prototype.JPG" alt="Blastgate Prototype" style=width:50%; />
 
 Verwendete Servos
+
 <img src="img\servo-motor.JPG" alt="Servo" style="width:50%;"/>
 
 ## Linksammlung
