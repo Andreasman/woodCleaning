@@ -4,5 +4,11 @@ Steuerung für eine Absauganlage für zwei Absaugmotoren und maximal 8 Automatik
 
 Entwickler: Andreas Stäcker
 
+## Fotos
+Prototype Blastgate
+<img src="img\blastgate-prototype.JPG" alt="Blastgate Prototype" style="width:80%;"/>
+
+Verwendete Servos
+<img src="img\servo-motor.JPG" alt="Servo" style="width:80%;"/>
 
 ## Linksammlung
