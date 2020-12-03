@@ -19,7 +19,7 @@ Entwickler: Andreas Stäcker
   
  **5V Relais 10A** für das Schalten der Staubsauger/Absaugmotoren  
 ![alt](img\5V-relais-10A.jpg)  
-[Link - Amazon](https://www.amazon.de/dp/B08G16L654/ref=cm_sw_em_r_mt_dp_CSmYFb4KV8GE4)  
+[Link - Amazon](https://www.amazon.de/dp/B08G16L654/ref=cm_sw_em_r_mt_dp_CSmYFb4KV8GE4){:target="_blank"} 
 
 
  
