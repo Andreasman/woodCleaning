@@ -50,8 +50,21 @@ Verwendete Servos
 
 *servoPowerOnRelay* - Spannungsversorgung Servos EIN
 
-*currentSensorPlug1* - Stromsensor Automatik Steckdose 1   
+**[currentSensorPlug1]** - Stromsensor Automatik Steckdose 1   
 *currentSensorPlug2* - Stromsensor Automatik Steckdose 2  
 ...  
 *currentSensorPlug8* - Stromsensor Automatik Steckdose 8  
+
+## Klassen
++ BlastGate
+    * angelClose
+    * angelOpen
+    * angelHalf
+    * state
+    * error
+    * close()
+    * open()
+    * half()
+    * errorCurrent
+    *
 
