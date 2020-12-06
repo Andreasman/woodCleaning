@@ -1,5 +1,6 @@
 #include <Arduino.h>
 #include <BlastGate.h>
+#include <CurrentSensor.h>
 #include <Servo.h>
 
 // ### PIN BELEGUNG ###
@@ -30,18 +31,21 @@ bool standbyMode = true;      // im Standby-Modus Servos Spannungslos schalten
 bool delayTimeActive = false; // Nachlauf der Absaugung aktiv
 BlastGate gate1;              // Blastgate 1 - Objekt erzeugen
 BlastGate gate2;              // Blastgate 2 - Objekt erzeugen
+CurrentSensor currentSensor1(A0);
 
 void setup()
 {
   delay(3000);
   Serial.begin(9600);
-  gate1.initServo(10, 90, 46, servo1Pin); // Servo für Gate1 initialisieren
-  gate2.initServo(2, 88, 33, servo2Pin);  // Servo für Gate1 initialisieren
+  gate1.initServo(10, 10, 10, servo1Pin); // Servo für Gate1 initialisieren
+  
+  gate2.initServo(11, 11, 11, servo2Pin); // Servo für Gate1 initialisieren
   Serial.println("Programm gestartet...");
 }
 
 void loop()
 {
+  Serial.println("gemessener Strom: " + String(currentSensor1.getCurrent()));
   gate1.open();
   delay(3000);
   gate1.half();
