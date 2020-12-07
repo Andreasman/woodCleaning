@@ -32,7 +32,13 @@ Prototype Blastgate
 
 Verwendete Servos
 
-<img src="img\servo-motor.JPG" alt="Servo" style="width:200px;"/>
+<img src="img\servo-motor.JPG" alt="Servo" style="width:200px;"/>  
+
+
+Absauganlage  
+<img src="img\cgv386-absaugung.jpg" alt="Servo" style="width:200px;"/>  
+[Lieferant Absaugung CGV386](https://www.holz-metall.info/shop1/artikel6044.htm)
+
 
 ## Linksammlung
 [Glätten des Stromsensors acs712 - guter Ansatz!](https://www.engineersgarage.com/arduino/acs712-current-sensor-with-arduino/)
@@ -58,19 +64,12 @@ Verwendete Servos
 *currentSensorPlug8* - Stromsensor Automatik Steckdose 8  
 
 ## Klassen
-+ BlastGate
-    * angelClose
-    * angelOpen
-    * angelHalf
-    * state
-    * error
-    * close()
-    * open()
-    * half()
-    * errorCurrent
-    *
+### BlastGate
+Steuert die Luftklappen über Servos
+### CurrentSensor 
+Strom-Mess-Sensor
 
 ## Testaufbau
 Testaufbau und Prototyping für das Programmieren der Absaugung.
 
-![alt](img\testaufbau-stufe1.JPG)
+![alt](img/testaufbau-stufe1.JPG)
