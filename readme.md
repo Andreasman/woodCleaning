@@ -46,9 +46,8 @@ Verwendete Servos
 Absauganlage mit 2 Motoren (2000W)   
 <img src="img\cgv386-absaugung.jpg" alt="Servo" style="width:200px;"/>  
 [Lieferant Absaugung CGV386](https://www.holz-metall.info/shop1/artikel6044.htm)  
-[Bedienungsanleitung CGV386](sheats\camvac-bedienungsanleitung.pdf)
 
-
+[Bedienungsanleitung CGV386](https://www.holz-metall.info/documents/Record-Power/Bedienungsanleitungen/Absaugungen/Bedienungsanleitung%20CamVac%20ver3.1.pdf)
 
 
 ## Linksammlung
