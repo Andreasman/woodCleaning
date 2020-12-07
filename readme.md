@@ -35,6 +35,8 @@ Verwendete Servos
 <img src="img\servo-motor.JPG" alt="Servo" style="width:200px;"/>
 
 ## Linksammlung
+[Glätten des Stromsensors acs712 - guter Ansatz!](https://www.engineersgarage.com/arduino/acs712-current-sensor-with-arduino/)
+
 ## Variablen
 *fan1* - Absaugung 1  
 *fan2* - Absaugung 2  
@@ -68,3 +70,7 @@ Verwendete Servos
     * errorCurrent
     *
 
+## Testaufbau
+Testaufbau und Prototyping für das Programmieren der Absaugung.
+
+![alt](img\testaufbau-stufe1.JPG)
