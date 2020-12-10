@@ -9,7 +9,9 @@ Entwickler: Andreas Stäcker
 <img src="img\stromsensor-wechselstrom-zmct103c.jpg" alt="Wechselstromsensor" style="width:400px;"/>   
 <a href="https://de.aliexpress.com/item/4000109096239.html?spm=a2g0o.cart.0.0.5e623c00Nbqb04&mp=1" target="_blank">Link - AliExpress</a>
 <a href="sheats\ZMCT103C-ETC.pdf"    target="_blank">Datenblatt ZMCT103C</a> 
- 
+
+----------
+
 **Gleichstrom-Sensor ACS712 5A** für die Servo Überwachung  
 <img src="img\stromsensor-gleichstrom-acs712.jpg" alt="Gleichstromsensor" style="width:400px;"/>
   
@@ -17,10 +19,15 @@ Entwickler: Andreas Stäcker
  
 <a href="sheats\ACS712_AllegroMicroSystems.pdf"    target="_blank">Datenblatt ZMCT103C</a>  
    
-  
+----------
+
  **5V Relais 10A** für das Schalten der Staubsauger/Absaugmotoren  
 <img src="img\5V-relais-10A.jpg" alt="Relais" style="width:400px;" /> 
+
+<a href="sheats\KY-019_1-Relais_Modul_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf"    target="_blank">Datenblatt Relais</a> 
   
+----------
+
  **Servo MG996R** für das Ansteuern der Klappen  
 <img src="img\servo-motor.JPG" alt="Servo" style="width:400px;" /> 
 
@@ -30,7 +37,9 @@ Entwickler: Andreas Stäcker
 [Link - Amazon](https://www.amazon.de/dp/B07H88DB8R/ref=cm_sw_em_r_mt_dp_AbL0FbNSZ74ZW?_encoding=UTF8&psc=1) 
 
 <a href="sheats\MG996R_Tower-Pro.pdf"    target="_blank">Datenblatt Servo MG996r</a>  
- 
+
+----------
+
 ## Fotos
 
 
