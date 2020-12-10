@@ -27,9 +27,9 @@ Entwickler: Andreas Stäcker
 
 
  
-[Link - Amazon](https://www.amazon.de/dp/B08G16L654/ref=cm_sw_em_r_mt_dp_CSmYFb4KV8GE4) 
+[Link - Amazon](https://www.amazon.de/dp/B07H88DB8R/ref=cm_sw_em_r_mt_dp_AbL0FbNSZ74ZW?_encoding=UTF8&psc=1) 
 
-
+<a href="sheats\MG996R_Tower-Pro.pdf"    target="_blank">Datenblatt Servo MG996r</a>  
  
 ## Fotos
 

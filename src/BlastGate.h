@@ -3,7 +3,7 @@
 #include "Arduino.h"
 #include "Servo.h"
 /*
-Ansteuerung eines BlastGates mit einem Modelbauservo.
+Ansteuerung eines BlastGates mit einem Modellbauservo.
 */
 class BlastGate
 {
