@@ -13,7 +13,7 @@ Entwickler: Andreas Staecker
 ----------
 
 **Gleichstrom-Sensor ACS712 5A** für die Servo Überwachung  
-![](img\stromsensor-gleichstrom-acs712.jpg)   
+![](img/stromsensor-gleichstrom-acs712.jpg)   
 
 
   
