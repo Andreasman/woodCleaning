@@ -6,7 +6,8 @@ Entwickler: Andreas Staecker
 
 ## Bauteile
 **Wechselstrom-Sensor ZMCT103C** für die automatik Steckdosen   
-<img src="img\stromsensor-wechselstrom-zmct103c.jpg" alt="Wechselstromsensor" style="width:400px;"/>   
+![](img/stromsensor-wechselstrom-zmct103c.jpg) 
+   
 <a href="https://de.aliexpress.com/item/4000109096239.html?spm=a2g0o.cart.0.0.5e623c00Nbqb04&mp=1" target="_blank">Link - AliExpress</a>
 <a href="sheats\ZMCT103C-ETC.pdf"    target="_blank">Datenblatt ZMCT103C</a> 
 
@@ -25,15 +26,15 @@ Entwickler: Andreas Staecker
 
  **5V Relais 10A** für das Schalten der Staubsauger/Absaugmotoren  
    
-<img src="img\5V-relais-10A.jpg" alt="Relais" style="max-width:10%;" /> 
+   ![](img/5V-relais-10A.jpg)   
+
 
 <a href="sheats\KY-019_1-Relais_Modul_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf"    target="_blank">Datenblatt Relais</a> 
   
 ----------
 
  **Servo MG996R** für das Ansteuern der Klappen  
-<img src="img\servo-motor.JPG" alt="Servo" style="width:400px;" /> 
-
+   ![](img/servo-motor.JPG)  
 
 
  
@@ -47,16 +48,17 @@ Entwickler: Andreas Staecker
 
 
 Prototype Blastgate
+![](img/blastgate-prototype.JPG) 
 
-<img src="img\blastgate-prototype.JPG" alt="Blastgate Prototype" style="width:400px;" />
 
 Verwendete Servos
-
-<img src="img\servo-motor.JPG" alt="Servo" style="width:400px;"/>  
+![](img/servo-motor.JPG) 
+ 
 
 
 Absauganlage mit 2 Motoren (2000W)   
-<img src="img\cgv386-absaugung.jpg" alt="Servo" style="width:200px;"/>  
+![](img/cgv386-absaugung.jpg) 
+  
 [Lieferant Absaugung CGV386](https://www.holz-metall.info/shop1/artikel6044.htm)  
 
 [Bedienungsanleitung CGV386](https://www.holz-metall.info/documents/Record-Power/Bedienungsanleitungen/Absaugungen/Bedienungsanleitung%20CamVac%20ver3.1.pdf)
@@ -92,5 +94,5 @@ Steuert die Luftklappen über Servos
 Strom-Mess-Sensor
 
 ## Testaufbau
-Testaufbau und Prototyping für das Programmieren der Absaugung.
-<img src="img\testaufbau-stufe1.JPG" alt="Testaufbau V01" style="width:400px;"/>
+Testaufbau und Prototyping für das Programmieren der Absaugung.  
+![](img/testaufbau-stufe1.JPG) 
